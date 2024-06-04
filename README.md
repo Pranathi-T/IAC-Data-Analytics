@@ -58,7 +58,7 @@ The dataset contains various attributes for each student, including:
 
 **Setup Instructions**
 1.Clone the repository:
-  git clone https://https://github.com/Pranathi-T/IAC-Data-Analytics.git
+  git clone https://github.com/Pranathi-T/IAC-Data-Analytics.git
 
 2.Navigate to the project directory:
   cd student-intern-analysis
